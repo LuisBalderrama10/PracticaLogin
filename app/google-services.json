@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "182811967612",
+    "project_id": "practicalogin-8dfea",
+    "storage_bucket": "practicalogin-8dfea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182811967612:android:b579045198bc4fb53609f9",
+        "android_client_info": {
+          "package_name": "mx.edu.itesca.practicalogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182811967612-3qnr5kk6h0cbha0i5liaitqapmjooood.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.edu.itesca.practicalogin",
+            "certificate_hash": "9f1372c33cf1a6aec6f7df19c4a9a0f682515255"
+          }
+        },
+        {
+          "client_id": "182811967612-iqivhoa8fbgh64ltlcbu7iaic81c8lvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOnEk0fZ8bImgOF5YxAS2ZpNQV7m88mTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182811967612-iqivhoa8fbgh64ltlcbu7iaic81c8lvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
